@@ -1,1 +1,1 @@
-redislabs/redis-py
+datasense/redis:6.2.14
