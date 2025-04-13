@@ -1,1 +1,1 @@
-bitnami/python
+redislabs/redis-py
